@@ -1,6 +1,6 @@
 # nextra-blog-sample
 
-YouTube 動画「Next.js 製の静的サイトジェネレーター「Nextra」で高速なブログを作ってみよう」で作成したリポジトリです。
+YouTube 動画 [Next.js 製の静的サイトジェネレーター「Nextra」で高速なブログを作ってみよう](https://www.youtube.com/watch?v=hKtSn7veh24) で作成したリポジトリです。
 
 ## 開発環境
 
